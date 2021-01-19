@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h4>2020.12 ~ 2021.01<h4>
+##2020.12 ~ 2021.01
  프로젝트 
-<img src="https://user-images.githubusercontent.com/69497845/104980035-fe911c00-5a48-11eb-8f49-9845d2a5e572.png">
+<img src="https://user-images.githubusercontent.com/69497845/104980385-cb02c180-5a49-11eb-9c56-d512f77ddcb3.png">
 <!-- 
 **jiunlee-hub/jiunlee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
