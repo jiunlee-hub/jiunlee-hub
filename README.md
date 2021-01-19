@@ -22,25 +22,22 @@
 5. 프로모션
 6. 멤버십
 7. DB (Reservation)
+
 ##
 
 ### 개발 Tool
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69497845/104994630-2c398d80-5a68-11eb-9f51-86e6471ccf37.png" width="8%" height="8%">
-
 <img src="https://user-images.githubusercontent.com/69497845/104995280-5f305100-5a69-11eb-8978-c901dd2ea402.png" width="8%" height="8%">
-
 <img src="https://user-images.githubusercontent.com/69497845/104995524-cbab5000-5a69-11eb-8be7-f7974f9c1130.png" width="8%" height="8%">
-
 <img src="https://user-images.githubusercontent.com/69497845/104995375-8f77ef80-5a69-11eb-9088-04194bb951f5.png" width="8%" height="8%">
-
 <img src="https://user-images.githubusercontent.com/69497845/104995591-e4b40100-5a69-11eb-866e-9f0b777dba55.png" width="8%" height="8%">
-
 <img src="https://user-images.githubusercontent.com/69497845/104995721-16c56300-5a6a-11eb-9747-2cc79d507471.png" width="8%" height="8%">
 </p>
-
+<br>
+<div>
 ![RSVN](https://user-images.githubusercontent.com/69497845/104990884-e4fbce80-5a60-11eb-85f9-0ec61da8d315.gif)
-
+</div>
  👉 [신나호텔 바로가기](http://embed.swq.co.kr/shinna/)
 
 <!-- 
