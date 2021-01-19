@@ -35,9 +35,9 @@
 <img src="https://user-images.githubusercontent.com/69497845/104995721-16c56300-5a6a-11eb-9747-2cc79d507471.png" width="8%" height="8%">
 </p>
 <br>
-<div>
+
 ![RSVN](https://user-images.githubusercontent.com/69497845/104990884-e4fbce80-5a60-11eb-85f9-0ec61da8d315.gif)
-</div>
+
  👉 [신나호텔 바로가기](http://embed.swq.co.kr/shinna/)
 
 <!-- 
