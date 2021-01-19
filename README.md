@@ -14,6 +14,13 @@
 |---|
 |팀원|3명|
 
+
+| 이름 | 신나호텔 | 
+| ---------- | :--------- |
+| Default | Left 
+
+
+
 ![메인](https://user-images.githubusercontent.com/69497845/104985610-afe97f00-5a54-11eb-891f-2d117538a854.png)
 
  👉 [신나호텔 바로가기](embed.swq.co.kr/shinna)
