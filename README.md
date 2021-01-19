@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img src="https://user-images.githubusercontent.com/69497845/104979311-5464c480-5a47-11eb-9d46-6a809e86845f.png">
 <!--
 **jiunlee-hub/jiunlee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
