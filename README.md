@@ -1,9 +1,21 @@
 ### Hi there 👋
 
-## 2020.12 ~ 2021.01
- 프로젝트 
-<img src="https://user-images.githubusercontent.com/69497845/104980385-cb02c180-5a49-11eb-9c56-d512f77ddcb3.png">
+## 호텔 예약 웹 사이트
 
+### 소개
+___
+- 2020.12 ~ 2021.01 진행
+
+|이름|신나호텔(SHINNA HOTEL)
+|--|--|
+|분류| 5성급 호텔
+|--|--|
+벤치마킹| 신라호텔, 롯데호텔
+
+
+![메인](https://user-images.githubusercontent.com/69497845/104985610-afe97f00-5a54-11eb-891f-2d117538a854.png)
+
+ 👉 [신나호텔 바로가기](embed.swq.co.kr/shinna)
 
 <!-- 
 **jiunlee-hub/jiunlee-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
