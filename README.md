@@ -28,7 +28,7 @@
 ### 개발 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/69497845/104994630-2c398d80-5a68-11eb-9f51-86e6471ccf37.png" width="8%" height="8%">
-<img src="https://user-images.githubusercontent.com/69497845/104995280-5f305100-5a69-11eb-8978-c901dd2ea402.png" width="8%" height="8%">
+<img src="https://user-images.githubusercontent.com/69497845/106223117-2e4bdb00-6224-11eb-97ee-a8d76627ff87.png" width="8%" height="8%">
 <img src="https://user-images.githubusercontent.com/69497845/104995524-cbab5000-5a69-11eb-8be7-f7974f9c1130.png" width="8%" height="8%">
 <img src="https://user-images.githubusercontent.com/69497845/104995375-8f77ef80-5a69-11eb-9088-04194bb951f5.png" width="8%" height="8%">
 <img src="https://user-images.githubusercontent.com/69497845/104995591-e4b40100-5a69-11eb-866e-9f0b777dba55.png" width="8%" height="8%">
